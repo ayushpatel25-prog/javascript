@@ -13,3 +13,9 @@ console.log("Mul: "+mul);
 console.log("Div: "+div);
 console.log("Mod: "+mod);
 console.log("Exp: "+exp);
+
+// when we want to write a string in double quotes we can use single quotes and vice versa
+var str1='Hello, "World"!';
+var str2="Hello, 'World'!";
+console.log(str1);
+console.log(str2);
