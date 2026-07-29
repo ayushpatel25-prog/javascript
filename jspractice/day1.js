@@ -19,3 +19,9 @@ var str1='Hello, "World"!';
 var str2="Hello, 'World'!";
 console.log(str1);
 console.log(str2);
+// to find length of string we can use length property
+var str3="Hello, World!";
+console.log("Length of string: "+str3.length);
+// concatenation of strings
+var str4="Hello, ";
+var str5="World!";
